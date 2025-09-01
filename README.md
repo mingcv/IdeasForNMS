@@ -1,5 +1,3 @@
-# IdeasForNMS
-
 Hello! As a passionate fan of No Man's Sky, I've been thoroughly enjoying the new Voyagers update, especially the corvette customization. This has sparked some ideas I'd love to share with the development team. I hope you'll consider them!
 
 **A Dual-Layered Architecture for Customization**
@@ -48,4 +46,4 @@ For balance, you could also introduce a "Warzone Galaxy," a procedurally generat
 
 Finally, this dual-layered system could also be applied to player avatars. A high-detail "private" model for the player's own view and a lower-detail "public" model for online interactions would improve performance. This, combined with a more advanced character creation system and a wider range of animations, would greatly enhance player immersion.
 
-Thank you for your time and for creating such an incredible universe for us to explore. The possibilities for the future of No Man's Sky are truly exciting! #NoMansSky #NMSVoyagers @NoMansSky
+Thank you for your time and for creating such an incredible universe for us to explore. The possibilities for the future of No Man's Sky are truly exciting! 
